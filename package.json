@@ -1,0 +1,25 @@
+{
+  "name": "cli-ecommerce-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/climba/cli-ecommerce-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "inquirer": "^1.0.2",
+    "mysql": "^2.15.0",
+    "cli-table": "^0.3.1"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/climba/cli-ecommerce-app/issues"
+  },
+  "homepage": "https://github.com/climba/cli-ecommerce-app#readme"
+}
